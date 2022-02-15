@@ -38,6 +38,7 @@ The final report should includes each of the following:
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
+* ![image](https://user-images.githubusercontent.com/85084734/154156732-9128926c-cfe7-42d9-a013-6e95e140cba5.png)
 
 ### Purchasing Analysis (age)
 
@@ -46,6 +47,7 @@ The final report should includes each of the following:
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Age
+* ![image](https://user-images.githubusercontent.com/85084734/154156823-b1b75530-44b9-49d3-bf97-20678ee6687c.png)
 
 ### Top Spenders
 
@@ -54,6 +56,7 @@ The final report should includes each of the following:
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
+* ![image](https://user-images.githubusercontent.com/85084734/154156882-a770a0f5-1843-4a59-871a-06e38ddf204e.png)
 
 ### Most Popular Items
 
@@ -63,6 +66,7 @@ The final report should includes each of the following:
   * Purchase Count
   * Item Price
   * Total Purchase Value
+* ![image](https://user-images.githubusercontent.com/85084734/154156958-7746e4fa-e754-461d-97d5-88771df4d35e.png)
 
 ### Most Profitable Items
 
@@ -72,6 +76,7 @@ The final report should includes each of the following:
   * Purchase Count
   * Item Price
   * Total Purchase Value
+* ![image](https://user-images.githubusercontent.com/85084734/154157004-e3a2089e-b788-4d75-aa13-c3d8b440d92e.png)
 
 
 
