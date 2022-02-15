@@ -20,6 +20,7 @@ The final report should includes each of the following:
 * Percentage and Count of Male Players
 * Percentage and Count of Female Players
 * Percentage and Count of Other / Non-Disclosed
+* ![image](https://user-images.githubusercontent.com/85084734/154155146-4d1317b5-4cb9-4cfa-b048-129023167169.png)
 
 ### Purchasing Analysis (Gender)
 
