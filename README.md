@@ -29,6 +29,7 @@ The final report should includes each of the following:
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Gender
+* ![image](https://user-images.githubusercontent.com/85084734/154155324-262f2c62-f2c0-4730-b4c7-9a970e0e445a.png)
 
 ### Age Demographics
 
