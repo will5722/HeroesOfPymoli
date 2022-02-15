@@ -7,6 +7,7 @@ The final report should includes each of the following:
 ### Player Count
 
 * Total Number of Players
+* ![image](https://user-images.githubusercontent.com/85084734/154157115-e9d1cf80-f0bb-40ca-a635-753f4a594e52.png)
 
 ### Purchasing Analysis (Total)
 
@@ -14,6 +15,7 @@ The final report should includes each of the following:
 * Average Purchase Price
 * Total Number of Purchases
 * Total Revenue
+* ![image](https://user-images.githubusercontent.com/85084734/154157173-91435318-6988-4eeb-a8d9-cdfae0c264ed.png)
 
 ### Gender Demographics
 
